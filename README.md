@@ -1,8 +1,8 @@
 ## Hi there, me chamo Matheus👋
 
-- 🔭 Currently I'm Analista Administrativo, mas estou migrando para área de dados
+- 🔭 Estou como Analista Administrativo, mas estou migrando para área de dados
 - 🌱 Conheço as linguagens de programação Python, SQL para Data Science e Analytics
-- 🤔 I’m looking for help with Linguagem de Programação e Análise de Dados
+- 🤔 Quero aprender Linguagem de Programação e aplicar em Análise de Dados
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
