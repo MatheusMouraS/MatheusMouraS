@@ -1,4 +1,4 @@
-## Hi there, me chamo Matheus👋
+## Olá,  me chamo Matheus👋
 
 - 🔭 Estou como Analista Administrativo, mas estou migrando para área de dados
 - 🌱 Conheço as linguagens de programação Python, SQL para Data Science e Analytics
