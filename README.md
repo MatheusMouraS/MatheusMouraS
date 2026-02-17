@@ -1,6 +1,6 @@
 # Sobre Mim
 
-👋 Olá! Sou Matheus, atualmente em transição de carreira para a área de dados. Com mais de um ano e meio de estudos intensivos em programação, com foco nas linguagens de programação **Python** e **SQL**, estou empolgado para aplicar meus conhecimentos e habilidades em projetos de análise e ciência de dados.
+👋 Olá! Sou Matheus, atualmente em transição de carreira para a área de dados. Com mais três anos de estudos intensivos em programação, com foco nas linguagens de programação **Python** e **SQL**, estou empolgado para aplicar meus conhecimentos e habilidades em projetos de análise e ciência de dados.
 
 ## 🌱 Formação e Aprendizado
 
